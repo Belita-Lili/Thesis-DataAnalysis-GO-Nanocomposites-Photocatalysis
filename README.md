@@ -1,4 +1,4 @@
-# README - Tesis de Licenciatura en Ingeniería en Energía
+# Thesis-DataAnalysis-GO-Nanocomposites-Photocatalysis
 
 ## Título
 ** Síntesis de nanocompuestos basados en nano hojas de óxido de grafeno (GO) y semiconductores inorgánicos para aplicaciones en fotocatálisis**
